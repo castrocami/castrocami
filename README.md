@@ -1,4 +1,4 @@
-### Hi!, I'm Camila! 👋 
+### Hola!, I'm Camila! 👋 
 
 Nurse and front-end developer student from Chile👯
 
