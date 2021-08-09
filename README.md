@@ -1,6 +1,6 @@
 ### Hola!, I'm Camila! 👋 
 
-Nurse and front-end developer from Chile👯
+Nurse and Full Stack trainee from Chile👯
 
 - 🔭 I’m currently working on my own arduino project!
 - 😄 I’m currently learning more of React
